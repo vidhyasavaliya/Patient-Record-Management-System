@@ -24,25 +24,3 @@ A simple and efficient Patient Record Management System designed to store, retri
 | ⚙️ Backend      | PHP / Python / Node.js (optional)   |
 | 🗃️ DBMS         | MySQL / PostgreSQL / SQLite         |
 
-> **Note:** This project can run entirely on SQL and any client to execute queries (e.g., MySQL Workbench, pgAdmin, DB Browser).
-
----
-
-## 🗄️ Database Structure
-
-**Main Tables:**
-
-- `patients` – stores patient personal information
-- `appointments` – stores date/time/doctor of appointments
-- `medical_records` – stores diagnosis, treatment, and notes
-- `doctors` – doctor details and specializations
-- `users` – login credentials (for system access)
-
-
-## 🔧 Setup Instructions
-
-### ✅ Prerequisites:
-- SQL database server (MySQL/PostgreSQL/SQLite)
-- SQL client (e.g., MySQL Workbench, pgAdmin)
-- Optional: Any backend tool or language for UI
-
