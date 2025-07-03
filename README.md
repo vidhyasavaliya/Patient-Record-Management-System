@@ -1,7 +1,6 @@
 # 🏥 Patient Record Management System (SQL-Based)
 
-A simple and efficient Patient Record Management System designed to store, retrieve, and manage patient data using an SQL database. This project is ideal for learning **SQL queries, database normalization, and CRUD operations**.
-
+A simple and efficient Patient Record Management System designed to store, retrieve, and manage patient data using an SQL database. This project is ideal for learning **SQL queries, database normalization
 ---
 
 ## 📌 Features
